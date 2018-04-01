@@ -1,3 +1,5 @@
+//La API getUserMedia debe ser ejecutada en un entorno servidor para su funcionamiento
+
 var video = document.querySelector('#video');
 
 navigator.webcam = (
